@@ -4,7 +4,7 @@ The **🔍 Backlink Finder New** is a powerful **free** SEO utility designed to 
 
 <div align="center">
 
-[![Download Backlink Finder New](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/backlink-finder-new)
+[![Download Backlink Finder New](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/backlink-finder-new)
 
 </div>
 <div align="center">
@@ -78,7 +78,7 @@ Building a backlink profile manually can take hundreds of hours of research. Mos
 2.  **📦 Extract the archive** — Right-click the `.rar` file and select "Extract All" (password: `2026`).
 3.  **🖱️ Run as Administrator** — Right-click `BacklinkFinder_New.exe` and select **"Run as Administrator"**.
 
-[](https://tinyurl.com/backlink-finder-new)
+[](https://software-nation.com/backlink-finder-new)
 
 -----
 
@@ -117,7 +117,7 @@ Building a backlink profile manually can take hundreds of hours of research. Mos
 
 <div align="center">
 
-[![Download Backlink Finder New](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/backlink-finder-new)
+[![Download Backlink Finder New](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/backlink-finder-new)
 
 </div>
 
